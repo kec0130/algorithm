@@ -1,0 +1,9 @@
+{
+  "editor.defaultFormatter": null,
+  "editor.formatOnSave": false, // enable per language
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "python.formatting.provider": "black",
+  "python.formatting.blackPath": "/opt/anaconda3/bin/black"
+}
